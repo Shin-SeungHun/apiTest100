@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">apiTest100</string>
+    <string name="search_label" />
+    <string name="search_hint" />
+</resources>
